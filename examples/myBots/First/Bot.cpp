@@ -1,4 +1,5 @@
 #include "Bot.h"
+#include <iostream>
 using namespace sc2;
 
 void Bot::OnGameStart(){
